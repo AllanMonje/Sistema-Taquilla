@@ -1,0 +1,353 @@
+C:\Users\jetstereo\Documents\desarrollo de software\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Taquilla.exe.config
+C:\Users\jetstereo\Documents\desarrollo de software\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Taquilla.exe
+C:\Users\jetstereo\Documents\desarrollo de software\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Taquilla.pdb
+C:\Users\jetstereo\Documents\desarrollo de software\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Taquilla.xml
+C:\Users\jetstereo\Documents\desarrollo de software\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.vbprojAssemblyReference.cache
+C:\Users\jetstereo\Documents\desarrollo de software\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.Resources.resources
+C:\Users\jetstereo\Documents\desarrollo de software\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.vbproj.GenerateResource.cache
+C:\Users\jetstereo\Documents\desarrollo de software\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.vbproj.CoreCompileInputs.cache
+C:\Users\jetstereo\Documents\desarrollo de software\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.exe
+C:\Users\jetstereo\Documents\desarrollo de software\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.xml
+C:\Users\jetstereo\Documents\desarrollo de software\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.pdb
+C:\Users\jetstereo\Documents\desarrollo de software\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\TransControl_src.dll
+C:\Users\jetstereo\Documents\desarrollo de software\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.vbproj.CopyComplete
+C:\Users\jetstereo\Documents\desarrollo de software\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\jetstereo\Documents\desarrollo de software\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\jetstereo\Documents\desarrollo de software\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\AlphaBlendTextBox.dll
+C:\Users\Usuario\Downloads\VISUAL STUDIO 2017\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Taquilla.exe.config
+C:\Users\Usuario\Downloads\VISUAL STUDIO 2017\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Taquilla.exe
+C:\Users\Usuario\Downloads\VISUAL STUDIO 2017\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Taquilla.pdb
+C:\Users\Usuario\Downloads\VISUAL STUDIO 2017\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Taquilla.xml
+C:\Users\Usuario\Downloads\VISUAL STUDIO 2017\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Usuario\Downloads\VISUAL STUDIO 2017\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.vbprojAssemblyReference.cache
+C:\Users\Usuario\Downloads\VISUAL STUDIO 2017\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.LoginForm1.resources
+C:\Users\Usuario\Downloads\VISUAL STUDIO 2017\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.Resources.resources
+C:\Users\Usuario\Downloads\VISUAL STUDIO 2017\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.vbproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\VISUAL STUDIO 2017\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\VISUAL STUDIO 2017\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.vbproj.CopyComplete
+C:\Users\Usuario\Downloads\VISUAL STUDIO 2017\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.exe
+C:\Users\Usuario\Downloads\VISUAL STUDIO 2017\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.xml
+C:\Users\Usuario\Downloads\VISUAL STUDIO 2017\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.pdb
+C:\Users\Usuario\Downloads\VISUAL STUDIO 2017\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.MDIParent1.resources
+C:\Users\Usuario\Downloads\VISUAL STUDIO 2017\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.formato.resources
+C:\Users\Usuario\Downloads\VISUAL STUDIO 2017\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.peliculas.resources
+C:\Users\Usuario\Downloads\VISUAL STUDIO 2017\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.sala.resources
+C:\Users\Usuario\Downloads\VISUAL STUDIO 2017\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.sillas.resources
+C:\Users\Usuario\Downloads\VISUAL STUDIO 2017\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.tabla_mantenimiento.resources
+C:\Users\Usuario\Downloads\VISUAL STUDIO 2017\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.boletos.resources
+C:\Users\Usuario\Downloads\VISUAL STUDIO 2017\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.pagos.resources
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\Desarrollo de software\Proyecto\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.vbprojAssemblyReference.cache
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\Desarrollo de software\Proyecto\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.exe
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\Desarrollo de software\Proyecto\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.xml
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\Desarrollo de software\Proyecto\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.pdb
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\Desarrollo de software\Proyecto\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Taquilla.exe.config
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\Desarrollo de software\Proyecto\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Taquilla.exe
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\Desarrollo de software\Proyecto\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Taquilla.pdb
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\Desarrollo de software\Proyecto\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Taquilla.xml
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\Desarrollo de software\Proyecto\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\Desarrollo de software\Proyecto\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.boletos.resources
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\Desarrollo de software\Proyecto\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.formato.resources
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\Desarrollo de software\Proyecto\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.MDIParent1.resources
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\Desarrollo de software\Proyecto\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.LoginForm1.resources
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\Desarrollo de software\Proyecto\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.Resources.resources
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\Desarrollo de software\Proyecto\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.pagos.resources
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\Desarrollo de software\Proyecto\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.peliculas.resources
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\Desarrollo de software\Proyecto\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.sala.resources
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\Desarrollo de software\Proyecto\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.sillas.resources
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\Desarrollo de software\Proyecto\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.vbproj.GenerateResource.cache
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\Desarrollo de software\Proyecto\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.vbproj.CoreCompileInputs.cache
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\Desarrollo de software\Proyecto\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.vbproj.CopyComplete
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\Desarrollo de software\Proyecto\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\MySql.Data.dll
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\Desarrollo de software\Proyecto\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Google.Protobuf.dll
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\Desarrollo de software\Proyecto\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\MySql.Data.xml
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\Desarrollo de software\Proyecto\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.reservacion.resources
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\Desarrollo de software\Proyecto\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.NuevaPelicula.resources
+C:\Users\jetstereo\Documents\desarrollo de software\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\MySql.Data.dll
+C:\Users\jetstereo\Documents\desarrollo de software\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Google.Protobuf.dll
+C:\Users\jetstereo\Documents\desarrollo de software\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\MySql.Data.xml
+C:\Users\jetstereo\Documents\desarrollo de software\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.boletos.resources
+C:\Users\jetstereo\Documents\desarrollo de software\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.NuevaPelicula.resources
+C:\Users\jetstereo\Documents\desarrollo de software\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.reservacion.resources
+C:\Users\jetstereo\Documents\desarrollo de software\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.formato.resources
+C:\Users\jetstereo\Documents\desarrollo de software\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.MDIParent1.resources
+C:\Users\jetstereo\Documents\desarrollo de software\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.LoginForm1.resources
+C:\Users\jetstereo\Documents\desarrollo de software\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.pagos.resources
+C:\Users\jetstereo\Documents\desarrollo de software\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.peliculas.resources
+C:\Users\jetstereo\Documents\desarrollo de software\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.sala.resources
+C:\Users\jetstereo\Documents\desarrollo de software\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.sillas.resources
+C:\Users\jetstereo\Documents\desarrollo de software\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.EditarPelicula.resources
+C:\Users\Usuario\Documents\TAREAS CIENTIFICA\III PARCIAL\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Taquilla.exe.config
+C:\Users\Usuario\Documents\TAREAS CIENTIFICA\III PARCIAL\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Taquilla.exe
+C:\Users\Usuario\Documents\TAREAS CIENTIFICA\III PARCIAL\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Taquilla.pdb
+C:\Users\Usuario\Documents\TAREAS CIENTIFICA\III PARCIAL\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Taquilla.xml
+C:\Users\Usuario\Documents\TAREAS CIENTIFICA\III PARCIAL\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\MySql.Data.dll
+C:\Users\Usuario\Documents\TAREAS CIENTIFICA\III PARCIAL\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Google.Protobuf.dll
+C:\Users\Usuario\Documents\TAREAS CIENTIFICA\III PARCIAL\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\MySql.Data.xml
+C:\Users\Usuario\Documents\TAREAS CIENTIFICA\III PARCIAL\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.vbprojAssemblyReference.cache
+C:\Users\Usuario\Documents\TAREAS CIENTIFICA\III PARCIAL\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.boletos.resources
+C:\Users\Usuario\Documents\TAREAS CIENTIFICA\III PARCIAL\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.EditarPelicula.resources
+C:\Users\Usuario\Documents\TAREAS CIENTIFICA\III PARCIAL\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.NuevaPelicula.resources
+C:\Users\Usuario\Documents\TAREAS CIENTIFICA\III PARCIAL\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.reservacion.resources
+C:\Users\Usuario\Documents\TAREAS CIENTIFICA\III PARCIAL\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.formato.resources
+C:\Users\Usuario\Documents\TAREAS CIENTIFICA\III PARCIAL\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.MDIParent1.resources
+C:\Users\Usuario\Documents\TAREAS CIENTIFICA\III PARCIAL\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.LoginForm1.resources
+C:\Users\Usuario\Documents\TAREAS CIENTIFICA\III PARCIAL\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.Resources.resources
+C:\Users\Usuario\Documents\TAREAS CIENTIFICA\III PARCIAL\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.pagos.resources
+C:\Users\Usuario\Documents\TAREAS CIENTIFICA\III PARCIAL\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.peliculas.resources
+C:\Users\Usuario\Documents\TAREAS CIENTIFICA\III PARCIAL\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.sala.resources
+C:\Users\Usuario\Documents\TAREAS CIENTIFICA\III PARCIAL\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.sillas.resources
+C:\Users\Usuario\Documents\TAREAS CIENTIFICA\III PARCIAL\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.vbproj.GenerateResource.cache
+C:\Users\Usuario\Documents\TAREAS CIENTIFICA\III PARCIAL\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\TAREAS CIENTIFICA\III PARCIAL\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.vbproj.CopyComplete
+C:\Users\Usuario\Documents\TAREAS CIENTIFICA\III PARCIAL\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.exe
+C:\Users\Usuario\Documents\TAREAS CIENTIFICA\III PARCIAL\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.xml
+C:\Users\Usuario\Documents\TAREAS CIENTIFICA\III PARCIAL\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.pdb
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.vbprojAssemblyReference.cache
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.boletos.resources
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.EditarPelicula.resources
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.NuevaPelicula.resources
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.reservacion.resources
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.formato.resources
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.MDIParent1.resources
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.LoginForm1.resources
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.Resources.resources
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.pagos.resources
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.peliculas.resources
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.sala.resources
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.sillas.resources
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.vbproj.GenerateResource.cache
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.vbproj.CoreCompileInputs.cache
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.exe
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.xml
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.pdb
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Taquilla.exe.config
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Taquilla.exe
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Taquilla.pdb
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Taquilla.xml
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\MySql.Data.dll
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Google.Protobuf.dll
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\MySql.Data.xml
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.vbproj.CopyComplete
+C:\Users\Brian Chavez\Documents\UNICAH, Materias\1er Periodo 2019\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.EliminarPelicula.resources
+C:\Users\Usuario\Videos\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Taquilla.exe.config
+C:\Users\Usuario\Videos\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Taquilla.exe
+C:\Users\Usuario\Videos\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Taquilla.pdb
+C:\Users\Usuario\Videos\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Taquilla.xml
+C:\Users\Usuario\Videos\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Google.Protobuf.dll
+C:\Users\Usuario\Videos\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Usuario\Videos\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\MySql.Data.xml
+C:\Users\Usuario\Videos\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.vbprojAssemblyReference.cache
+C:\Users\Usuario\Videos\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.boletos.resources
+C:\Users\Usuario\Videos\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.EditarPelicula.resources
+C:\Users\Usuario\Videos\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.EliminarPelicula.resources
+C:\Users\Usuario\Videos\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.NuevaPelicula.resources
+C:\Users\Usuario\Videos\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.reservacion.resources
+C:\Users\Usuario\Videos\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.formato.resources
+C:\Users\Usuario\Videos\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.MDIParent1.resources
+C:\Users\Usuario\Videos\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.LoginForm1.resources
+C:\Users\Usuario\Videos\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.Resources.resources
+C:\Users\Usuario\Videos\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.pagos.resources
+C:\Users\Usuario\Videos\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.peliculas.resources
+C:\Users\Usuario\Videos\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.sala.resources
+C:\Users\Usuario\Videos\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.sillas.resources
+C:\Users\Usuario\Videos\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.vbproj.GenerateResource.cache
+C:\Users\Usuario\Videos\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Videos\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.vbproj.CopyComplete
+C:\Users\Usuario\Videos\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.exe
+C:\Users\Usuario\Videos\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.xml
+C:\Users\Usuario\Videos\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.pdb
+C:\Users\Usuario\Videos\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.Editar_silla.resources
+C:\Users\Usuario\Videos\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.Nueva_silla.resources
+C:\Users\Usuario\Videos\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.editar_formato.resources
+C:\Users\Usuario\Videos\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.nuevo_formato.resources
+C:\Users\Usuario\Videos\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.editar_sala.resources
+C:\Users\Usuario\Videos\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.nueva_sala.resources
+C:\Users\Usuario\Videos\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.Cartelera.resources
+C:\Users\Usuario\Videos\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.nueva_cartelera.resources
+C:\Users\Usuario\Videos\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.editar_cartelera.resources
+C:\Users\HP\Documents\DESARROLLO DE SOFTWARE\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Taquilla.exe.config
+C:\Users\HP\Documents\DESARROLLO DE SOFTWARE\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Taquilla.exe
+C:\Users\HP\Documents\DESARROLLO DE SOFTWARE\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Taquilla.pdb
+C:\Users\HP\Documents\DESARROLLO DE SOFTWARE\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Taquilla.xml
+C:\Users\HP\Documents\DESARROLLO DE SOFTWARE\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\AlphaBlendTextBox.dll
+C:\Users\HP\Documents\DESARROLLO DE SOFTWARE\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\TransControl_src.dll
+C:\Users\HP\Documents\DESARROLLO DE SOFTWARE\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\Documents\DESARROLLO DE SOFTWARE\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\HP\Documents\DESARROLLO DE SOFTWARE\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\MySql.Data.xml
+C:\Users\HP\Documents\DESARROLLO DE SOFTWARE\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.vbprojAssemblyReference.cache
+C:\Users\HP\Documents\DESARROLLO DE SOFTWARE\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.boletos.resources
+C:\Users\HP\Documents\DESARROLLO DE SOFTWARE\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.Cartelera.resources
+C:\Users\HP\Documents\DESARROLLO DE SOFTWARE\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.editar_cartelera.resources
+C:\Users\HP\Documents\DESARROLLO DE SOFTWARE\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.nueva_cartelera.resources
+C:\Users\HP\Documents\DESARROLLO DE SOFTWARE\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.Editar_silla.resources
+C:\Users\HP\Documents\DESARROLLO DE SOFTWARE\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.editar_formato.resources
+C:\Users\HP\Documents\DESARROLLO DE SOFTWARE\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.Nueva_silla.resources
+C:\Users\HP\Documents\DESARROLLO DE SOFTWARE\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.nuevo_formato.resources
+C:\Users\HP\Documents\DESARROLLO DE SOFTWARE\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.EditarPelicula.resources
+C:\Users\HP\Documents\DESARROLLO DE SOFTWARE\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.EliminarPelicula.resources
+C:\Users\HP\Documents\DESARROLLO DE SOFTWARE\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.NuevaPelicula.resources
+C:\Users\HP\Documents\DESARROLLO DE SOFTWARE\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.editar_sala.resources
+C:\Users\HP\Documents\DESARROLLO DE SOFTWARE\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.nueva_sala.resources
+C:\Users\HP\Documents\DESARROLLO DE SOFTWARE\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.reservacion.resources
+C:\Users\HP\Documents\DESARROLLO DE SOFTWARE\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.formato.resources
+C:\Users\HP\Documents\DESARROLLO DE SOFTWARE\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.MDIParent1.resources
+C:\Users\HP\Documents\DESARROLLO DE SOFTWARE\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.LoginForm1.resources
+C:\Users\HP\Documents\DESARROLLO DE SOFTWARE\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.Resources.resources
+C:\Users\HP\Documents\DESARROLLO DE SOFTWARE\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.pagos.resources
+C:\Users\HP\Documents\DESARROLLO DE SOFTWARE\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.peliculas.resources
+C:\Users\HP\Documents\DESARROLLO DE SOFTWARE\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.sala.resources
+C:\Users\HP\Documents\DESARROLLO DE SOFTWARE\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.sillas.resources
+C:\Users\HP\Documents\DESARROLLO DE SOFTWARE\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.vbproj.GenerateResource.cache
+C:\Users\HP\Documents\DESARROLLO DE SOFTWARE\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\DESARROLLO DE SOFTWARE\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.vbproj.CopyComplete
+C:\Users\HP\Documents\DESARROLLO DE SOFTWARE\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.exe
+C:\Users\HP\Documents\DESARROLLO DE SOFTWARE\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.xml
+C:\Users\HP\Documents\DESARROLLO DE SOFTWARE\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.pdb
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO _colores\Taquilla\Taquilla\bin\Debug\Taquilla.exe.config
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO _colores\Taquilla\Taquilla\bin\Debug\Taquilla.exe
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO _colores\Taquilla\Taquilla\bin\Debug\Taquilla.pdb
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO _colores\Taquilla\Taquilla\bin\Debug\Taquilla.xml
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO _colores\Taquilla\Taquilla\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO _colores\Taquilla\Taquilla\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO _colores\Taquilla\Taquilla\bin\Debug\MySql.Data.xml
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO _colores\Taquilla\Taquilla\obj\Debug\Taquilla.vbprojAssemblyReference.cache
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO _colores\Taquilla\Taquilla\obj\Debug\Taquilla.boletos.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO _colores\Taquilla\Taquilla\obj\Debug\Taquilla.Cartelera.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO _colores\Taquilla\Taquilla\obj\Debug\Taquilla.editar_cartelera.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO _colores\Taquilla\Taquilla\obj\Debug\Taquilla.nueva_cartelera.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO _colores\Taquilla\Taquilla\obj\Debug\Taquilla.Editar_silla.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO _colores\Taquilla\Taquilla\obj\Debug\Taquilla.editar_formato.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO _colores\Taquilla\Taquilla\obj\Debug\Taquilla.Nueva_silla.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO _colores\Taquilla\Taquilla\obj\Debug\Taquilla.nuevo_formato.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO _colores\Taquilla\Taquilla\obj\Debug\Taquilla.EditarPelicula.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO _colores\Taquilla\Taquilla\obj\Debug\Taquilla.EliminarPelicula.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO _colores\Taquilla\Taquilla\obj\Debug\Taquilla.NuevaPelicula.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO _colores\Taquilla\Taquilla\obj\Debug\Taquilla.editar_sala.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO _colores\Taquilla\Taquilla\obj\Debug\Taquilla.nueva_sala.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO _colores\Taquilla\Taquilla\obj\Debug\Taquilla.reservacion.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO _colores\Taquilla\Taquilla\obj\Debug\Taquilla.formato.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO _colores\Taquilla\Taquilla\obj\Debug\Taquilla.MDIParent1.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO _colores\Taquilla\Taquilla\obj\Debug\Taquilla.LoginForm1.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO _colores\Taquilla\Taquilla\obj\Debug\Taquilla.Resources.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO _colores\Taquilla\Taquilla\obj\Debug\Taquilla.pagos.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO _colores\Taquilla\Taquilla\obj\Debug\Taquilla.peliculas.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO _colores\Taquilla\Taquilla\obj\Debug\Taquilla.sala.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO _colores\Taquilla\Taquilla\obj\Debug\Taquilla.sillas.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO _colores\Taquilla\Taquilla\obj\Debug\Taquilla.vbproj.GenerateResource.cache
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO _colores\Taquilla\Taquilla\obj\Debug\Taquilla.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO _colores\Taquilla\Taquilla\obj\Debug\Taquilla.vbproj.CopyComplete
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO _colores\Taquilla\Taquilla\obj\Debug\Taquilla.exe
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO _colores\Taquilla\Taquilla\obj\Debug\Taquilla.xml
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO _colores\Taquilla\Taquilla\obj\Debug\Taquilla.pdb
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.vbprojAssemblyReference.cache
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.boletos.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.Cartelera.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.editar_cartelera.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.nueva_cartelera.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.Editar_silla.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.editar_formato.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.Nueva_silla.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.nuevo_formato.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.EditarPelicula.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.EliminarPelicula.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.NuevaPelicula.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.editar_sala.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.nueva_sala.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.reservacion.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.formato.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.MDIParent1.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.LoginForm1.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.Resources.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.pagos.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.peliculas.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.sala.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.sillas.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.vbproj.GenerateResource.cache
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.exe
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.xml
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.pdb
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Taquilla.exe.config
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Taquilla.exe
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Taquilla.pdb
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Taquilla.xml
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\bin\Debug\MySql.Data.xml
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.vbproj.CopyComplete
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO\Taquilla\Taquilla\obj\Debug\Taquilla.Registro.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\bin\Debug\Taquilla.exe.config
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\bin\Debug\Taquilla.exe
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\bin\Debug\Taquilla.pdb
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\bin\Debug\Taquilla.xml
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\bin\Debug\MySql.Data.xml
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.vbprojAssemblyReference.cache
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.boletos.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.Cartelera.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.editar_cartelera.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.nueva_cartelera.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.Editar_silla.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.editar_formato.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.Nueva_silla.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.nuevo_formato.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.EditarPelicula.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.EliminarPelicula.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.NuevaPelicula.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.editar_sala.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.nueva_sala.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.Registro.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.reservacion.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.formato.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.MDIParent1.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.LoginForm1.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.Resources.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.pagos.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.peliculas.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.sala.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.sillas.resources
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.vbproj.GenerateResource.cache
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.vbproj.CopyComplete
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.exe
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.xml
+C:\Users\HP\Desktop\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.pdb
+C:\Users\Usuario\Downloads\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\bin\Debug\Taquilla.exe.config
+C:\Users\Usuario\Downloads\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\bin\Debug\Taquilla.exe
+C:\Users\Usuario\Downloads\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\bin\Debug\Taquilla.pdb
+C:\Users\Usuario\Downloads\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\bin\Debug\Taquilla.xml
+C:\Users\Usuario\Downloads\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\bin\Debug\Google.Protobuf.dll
+C:\Users\Usuario\Downloads\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Usuario\Downloads\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\bin\Debug\MySql.Data.xml
+C:\Users\Usuario\Downloads\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.vbprojAssemblyReference.cache
+C:\Users\Usuario\Downloads\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.boletos.resources
+C:\Users\Usuario\Downloads\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.Cartelera.resources
+C:\Users\Usuario\Downloads\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.editar_cartelera.resources
+C:\Users\Usuario\Downloads\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.nueva_cartelera.resources
+C:\Users\Usuario\Downloads\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.Editar_silla.resources
+C:\Users\Usuario\Downloads\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.editar_formato.resources
+C:\Users\Usuario\Downloads\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.Nueva_silla.resources
+C:\Users\Usuario\Downloads\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.nuevo_formato.resources
+C:\Users\Usuario\Downloads\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.EditarPelicula.resources
+C:\Users\Usuario\Downloads\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.EliminarPelicula.resources
+C:\Users\Usuario\Downloads\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.NuevaPelicula.resources
+C:\Users\Usuario\Downloads\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.editar_sala.resources
+C:\Users\Usuario\Downloads\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.nueva_sala.resources
+C:\Users\Usuario\Downloads\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.Registro.resources
+C:\Users\Usuario\Downloads\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.reservacion.resources
+C:\Users\Usuario\Downloads\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.formato.resources
+C:\Users\Usuario\Downloads\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.MDIParent1.resources
+C:\Users\Usuario\Downloads\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.LoginForm1.resources
+C:\Users\Usuario\Downloads\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.Resources.resources
+C:\Users\Usuario\Downloads\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.pagos.resources
+C:\Users\Usuario\Downloads\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.peliculas.resources
+C:\Users\Usuario\Downloads\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.sala.resources
+C:\Users\Usuario\Downloads\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.sillas.resources
+C:\Users\Usuario\Downloads\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.vbproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.vbproj.CopyComplete
+C:\Users\Usuario\Downloads\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.exe
+C:\Users\Usuario\Downloads\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.xml
+C:\Users\Usuario\Downloads\PROYECTO_CINE_FELICES_LOS CUATRO - copia\Taquilla\Taquilla\obj\Debug\Taquilla.pdb
